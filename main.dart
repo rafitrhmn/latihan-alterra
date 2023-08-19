@@ -1,4 +1,7 @@
 void main(List<String> args) {
-  print('hello world');
-  print('hai');
+<<<<<<< Feature-B
+  print('halo semua');
+  print('haloo');
+=======
+>>>>>>> development
 }
